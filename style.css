@@ -1,0 +1,17 @@
+nav{
+  background-color: rgb(190, 141, 199);
+  text-align: center;
+  height: 50px;
+  width: 500px;
+  border-radius: 5%;
+}
+ul{
+  list-style-type: none;
+}
+li{
+  display: inline;
+  padding: 20px;
+}
+a{
+  font-size: 20px;
+}
